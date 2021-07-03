@@ -1,1 +1,1 @@
-# quick_and_dirty_hacks
+# Collection of Quick and Dirty Hacks
